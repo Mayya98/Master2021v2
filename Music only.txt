@@ -1,0 +1,431 @@
+absolute music
+accelerando
+adagio
+allegro
+andante
+aria
+art-music
+art song
+atonality
+augmentation
+avant-garde
+ballade
+bar
+barcarolle
+Baroque Era
+baroque
+bass
+basso continuo
+beat
+Berceuse
+binary form
+bitonality
+Blues
+Bolero
+brevis
+cadence
+cadenza
+call and response
+canon
+Capriccio
+chamber music
+chance music
+Chanson
+chant
+character piece
+chorale
+chord
+chromatic
+chromaticism
+Classic Era
+classicism
+clef
+coda
+collegium musicum
+composer
+computer music
+concerto
+concerto grosso
+conductor
+consonance
+cool jazz
+countermelody
+counterpoint
+crescendo
+da capo
+decrescendo
+development
+diatonic
+Dies Irae
+diminuendo
+diminution
+disjunct
+Doctrine of Affections
+dotted note
+downbeat
+duple meter
+dur
+dynamics
+elegy
+ensemble
+episode
+etude
+Espressivo
+exposition
+expressionism
+flat sign
+flat
+film music
+forte
+fortepiano
+fortissimo
+fff
+fugue
+genre
+Gigue
+Giocoso
+glissando
+grave
+Gregorian chant
+half step
+harmony
+harp
+harpsichord
+home key
+homophonic texture
+hot jazz
+Humoresque
+hymn
+idée fixe
+imitation
+Impressionism
+improvisation
+incidental music
+instrumentation
+interpretation
+interval
+inversion
+jazz
+jazz band
+key
+key signature
+keyboard instrument
+largo
+legato
+Leitmotif
+Leggiero
+lento
+libretto
+Lied
+longa
+major key
+major scale
+Mass
+Mass Ordinary
+Mass Proper
+mazurka
+measure
+Medieval
+melisma
+melody
+meter
+metronome
+mezzo-
+mezzo-forte
+mezzo-piano
+microtone
+Middle Ages
+MIDI
+mimesis
+minima
+minimalism
+minor key
+minor scale
+minuet
+minuet and trio form
+mode
+moderato
+Modern Era
+modulation
+moll
+monophonic texture
+motet
+motive
+movement
+Musikdrama
+music 
+musicology
+nationalism
+natural sign
+natural
+neo-Classicism
+new age
+nocturne
+non-metrical:
+non-Western music
+notation
+note
+octave
+Octet
+opera
+opera buffa
+opera seria
+Opus
+oratorio
+orchestra
+orchestration
+Ordinary
+organ
+ostinato
+overture
+pace
+partita
+passacaglia
+pause
+pentatonic
+pentatonic scale
+phrase
+pianissimo
+pianist
+pianism
+ppp
+piano
+pianoforte
+pitch
+Più
+pizzicato
+poco a poco
+polka
+polonaise
+polyphony
+polyphonic texture
+polyrhythm
+polytonality
+postlude
+prelude
+prepared piano
+prestissimo
+presto
+program music
+program symphony
+progression
+Proper
+quadruple meter
+quotation music
+rag
+ragtime
+range
+rallentando
+recapitulation
+register
+Renaissance
+Requiem Mass
+retrograde
+retrograde inversion
+ritardando
+ritenuto
+rococo
+rhythm
+rhythm and blues
+ritardando
+ritornello form
+rock and roll
+Romantic Era
+romantism
+rondo
+rondo form
+rubato
+scale
+scherzo
+scherzo and trio form
+sequence
+seventh
+score
+semibrevis
+semiminima
+semitone
+serenade
+serialism
+seventh
+dominant seventh
+sharp sign
+sharp
+sforzando
+solo concerto
+sonata
+sonata-allegro form
+sonata form
+sonata-rondo form
+song
+staccato
+strophic form
+subject
+suite
+swing
+symphonic poem
+symphony
+syncopation
+syncope
+synthesizer
+tala
+tempo
+ternary form
+texture
+theme
+theme and variations form
+through-composed form
+timbre
+tone color
+tone cluster
+tonality
+tone row
+tonic
+tonic key
+transition
+transposition
+tremolo
+triad
+trill
+trio sonata
+triple meter
+triplet
+unison
+upbeat
+variation
+vibrato
+virtuoso
+vivace
+volume
+waltz
+whole step
+whole-tone scale
+Perfect unison
+Minor second
+Major second
+Minor third
+Major third
+Perfect fourth
+Perfect fifth
+Minor sixth
+Major sixth
+Minor seventh
+Major seventh
+Perfect octave
+Augmented second
+Diminished fourth
+Diminished fifth
+Augmented fourth
+Tritone
+Augmented fifth
+Diminished seventh
+Major triad
+Major sixth chord
+Dominant seventh chord
+Major seventh chord
+Augmented triad
+Augmented seventh chord
+Minor triad
+Minor sixth chord
+Minor seventh chord
+Minor-major seventh chord
+Diminished triad
+Diminished seventh chord
+Half-diminished seventh chord
+C flat
+C sharp
+D flat
+D sharp
+E flat
+E sharp
+F flat
+F sharp
+G flat
+G sharp
+A flat
+A sharp
+A sharp
+B flat
+B sharp
+Léonin
+Pérotin
+Tannhäuser
+Philippe de Vitry
+Vincenzo da Rimini
+Legrant
+Palestrina 
+Gabrieli 
+Monteverdi
+Lully
+Freskobaldi
+Buxtehude
+Bach
+Pachelbel 
+Scarlatti
+Marcello
+Telemann
+Handel
+Vivaldi
+Pergolesi
+Locatelli 
+Haydn
+Galuppi
+Diabelli
+Mozart 
+Beethoven
+Boccerini
+Berlioz
+Strauss I
+Strauss II
+Glinka 
+Mendelssohn
+Chopin
+Schumann 
+Liszt
+Dargomyzhsky
+Thalberg
+Wagner
+Verdi
+Alkan
+Offenbach
+Smetana
+Dvorak
+Bruckner
+Rubinstein
+Leschetizky 
+Brahms
+Borodin
+Saint-Saëns
+Shubert
+Delibes
+Bizet
+Mussorgsky
+Tchaikovsky
+Massenet
+Grieg
+Sarasate
+Rimsky-Korsakov
+Balakirev
+Faure
+Elgar
+Liapunov
+Arensky
+Puccini
+Bellini
+Debussy
+Falla
+Granados
+Albeniz
+Rachmaninoff
+Reger
+Berg
+Miaskovsky
+Gershwin
+Poulenc 
+Copland
+Kabalevsky 
+Khachaturian
+Rodrigo
+Shostakovich
+Messiaen
+Shchedrin
+Schnittke
